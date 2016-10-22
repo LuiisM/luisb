@@ -1,6 +1,6 @@
 {
     "name": "luisb/pse",
-    "description": "Simple webservice SOAP",
+    "description": "Simple conexión al webservice PSE",
     "license": "MIT",
     "require": {
         "php": ">=5.5.9"
